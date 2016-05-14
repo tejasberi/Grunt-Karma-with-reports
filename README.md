@@ -7,3 +7,10 @@ Project contains:
 - Setup for jasmine unit tests
 - Setup for karma report generation
 
+How to use:
+- Clone the project repo
+- Using node command prompt run below commands:
+  - 'npm init' to install node modules
+  - 'grunt karma' to run unit tests and generate reports
+- The karma unit test reports will get generated in folders 'Karma Coverage Report' and 'Karm HTML Report'
+
