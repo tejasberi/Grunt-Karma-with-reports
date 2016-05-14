@@ -1,0 +1,27 @@
+{
+  "name": "templates",
+  "version": "1.0.0",
+  "description": "This is a grunt - node based project to achieve follwoing functionaliies:\r - CSS minification\r - CSS concat\r - JS minification\r - JS concat\r - JS uglify\r - JS hint\r - watch the JS file changes\r - Clean unwated files",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tejas",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-karma": "^1.0.0",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-coverage": "^1.0.0",
+    "karma-html-reporter": "^0.2.7",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "karma-sauce-launcher": "^1.0.0",
+    "karma-script-launcher": "^1.0.0",
+    "karma-story-reporter": "^0.3.1",
+    "phantomjs-prebuilt": "^2.1.7"
+  }
+}
